@@ -74,7 +74,7 @@ html {
   /* background-image: url(page1.jpeg); */
   /* background-image: url(https://picsum.photos/id/25/1920/1080); */
   background: linear-gradient(rgb(247 146 143 / 32%), #2e3f5b00),
-    rgb(61 76 90) url(../image/page1.jpeg) no-repeat;
+    rgb(61 76 90) url(../image/animasi.png) no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white; /*buat jam
